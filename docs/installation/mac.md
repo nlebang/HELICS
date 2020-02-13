@@ -1,4 +1,4 @@
-# Mac Installation
+# Mac Build From Source
 
 ## Requirements
 

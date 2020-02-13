@@ -1,4 +1,4 @@
-Ubuntu Installation
+Ubuntu Build from Source
 ===================
 
 Requirements

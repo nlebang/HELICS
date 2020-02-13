@@ -1,4 +1,4 @@
-# Windows Installation #
+# Windows Build from Source #
 
 ## Requirements ##
 
