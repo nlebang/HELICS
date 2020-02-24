@@ -5,6 +5,7 @@ on:
     branches: 
       - master
       - develop
+      - cmake_new_policy_copy
 
 jobs:
   build:
